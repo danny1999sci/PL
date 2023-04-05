@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Mar 23 04:43:48 2023
-
-@author: danny
-"""
-
 import pandas as pd
 df = pd.read_csv('Starbucks satisfactory survey.csv')
 
